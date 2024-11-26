@@ -1,0 +1,167 @@
+
+{
+"phones": [
+	{
+	  "id": "1",
+	  "name": "iPhone 15 Pro Max",
+	  "rating": 4.8,
+	  "price": 1499,
+	  "descriptionName":"DESCRIPTION",
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "mainImage": "https://fdn.gsmarena.com/imgroot/static/headers/makers/oneplus-2023-1.jpg",
+	  "images": [
+		"https://via.placeholder.com/150/1E90FF",
+		"https://via.placeholder.com/150/FFD700",
+		"https://via.placeholder.com/150/FF5733"
+	  ],
+	  "displaySize": "6.7 inches",
+	  "camera": "48 MP"
+	},
+	{
+	  "id": "2",
+	  "name": "Samsung Galaxy S23 Ultra",
+	  "rating": 4.7,
+	  "price": 1399,
+	  "descriptionName":"DESCRIPTION",
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+
+	  "mainImage": "https://oasis.opstatics.com/content/dam/oasis/page/2023/nav/nav-larry-green.png",
+	  "images": [
+		"https://via.placeholder.com/150/FF5733",
+		"https://via.placeholder.com/150/33FF57",
+		"https://via.placeholder.com/150/5733FF"
+	  ],
+	  "displaySize": "6.8 inches",
+	  "camera": "200 MP"
+	},
+	{
+	  "id": "3",
+	  "name": "Google Pixel 8 Pro",
+	  "rating": 4.5,
+	  "price": 999,
+	  "descriptionName":"DESCRIPTION",
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "mainImage": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-8-1.jpg",
+	  "images": [
+		"https://via.placeholder.com/150/FFD700",
+		"https://via.placeholder.com/150/00CED1",
+		"https://via.placeholder.com/150/FF4500"
+	  ],
+	  "displaySize": "6.7 inches",
+	  "camera": "50 MP"
+	},
+	{
+
+	  "id": "4",
+	  "name": "OnePlus 11 Pro",
+	  "rating": 4.4,
+	  "price": 899,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-nord-1.jpg",
+	  "images": [
+		"https://via.placeholder.com/150/33FF57",
+		"https://via.placeholder.com/150/FF5733",
+		"https://via.placeholder.com/150/5733FF"
+	  ],
+	  "displaySize": "6.7 inches",
+	  "camera": "48 MP"
+	},
+	{
+	  "id": "5",
+	  "name": "Xiaomi Mi 13 Ultra",
+	  "rating": 4.6,
+	  "price": 1299,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://www.cnet.com/a/img/resize/8d68801b22b485b3789d03d465ad6080db4d6366/hub/2023/02/05/b068bcb6-2a56-48f3-adcf-62530a0d6734/oneplus-11-review-cnet-lanxon-promo.jpg?auto=webp&fit=crop&height=675&width=1200",
+	  "images": [
+		"https://via.placeholder.com/150/00CED1",
+		"https://via.placeholder.com/150/FFD700",
+		"https://via.placeholder.com/150/FF4500"
+	  ],
+	  "displaySize": "6.8 inches",
+	  "camera": "50 MP"
+	},
+	{
+	  "id": "6",
+	  "name": "Sony Xperia 1 V",
+	  "rating": 4.3,
+	  "price": 1299,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://opsg-img-cdn-gl.heytapimg.com/epb/202302/15/SrtL7TwcCqYXBAln.png",
+	  "images": [
+		"https://via.placeholder.com/150/5733FF",
+		"https://via.placeholder.com/150/FF5733",
+		"https://via.placeholder.com/150/33FF57"
+	  ],
+	  "displaySize": "6.5 inches",
+	  "camera": "48 MP"
+	},
+	{
+	  "id": "7",
+	  "name": "Motorola Edge 40 Pro",
+	  "rating": 4.2,
+	  "price": 799,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://opsg-img-cdn-gl.heytapimg.com/epb/202406/05/xmVhqqrzFYRyYIsA.png",
+	  "images": [
+		"https://via.placeholder.com/150/FF4500",
+		"https://via.placeholder.com/150/FFD700",
+		"https://via.placeholder.com/150/00CED1"
+	  ],
+	  "displaySize": "6.7 inches",
+	  "camera": "50 MP"
+	},
+	{
+	  "id": "8",
+	  "name": "Asus ROG Phone 7",
+	  "rating": 4.5,
+	  "price": 1099,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://s.alicdn.com/@sc04/kf/H66c8f6d2c7c440ce89dc420476f6c741s.jpg_720x720q50.jpg",
+	  "images": [
+		"https://via.placeholder.com/150/1E90FF",
+		"https://via.placeholder.com/150/FFD700",
+		"https://via.placeholder.com/150/FF5733"
+	  ],
+	  "displaySize": "6.8 inches",
+	  "camera": "50 MP"
+	},
+	{
+	  "id": "9",
+	  "name": "Oppo Find X6 Pro",
+	  "rating": 4.6,
+	  "price": 1199,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno11-f-5g-en/listpage/reno11-f-427-600-blue.png.thumb.webp",
+	  "images": [
+		"https://via.placeholder.com/150/8A2BE2",
+		"https://via.placeholder.com/150/1E90FF",
+		"https://via.placeholder.com/150/FFD700"
+	  ],
+	  "displaySize": "6.8 inches",
+	  "camera": "50 MP"
+	},
+	{
+	  "id": "10",
+	  "name": "Huawei Mate 60 Pro",
+	  "rating": 4.4,
+	  "price": 1199,
+	  "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque consequuntur delectus eaque cumque neque quod laboriosam, culpa impedit illum molestiae!",
+	  "descriptionName":"DESCRIPTION",
+	  "mainImage": "https://darlingretail.com/cdn/shop/files/81tb1u-uIGL._SL1500_7e387dac-f0a6-42d1-9205-93f36e497493_800x.jpg?v=1715258551",
+	  "images": [
+		"https://via.placeholder.com/150/DC143C",
+		"https://via.placeholder.com/150/1E90FF",
+		"https://via.placeholder.com/150/8A2BE2"
+	  ],
+	  "displaySize": "6.7 inches",
+	  "camera": "50 MP"
+	}
+  ]
+}
